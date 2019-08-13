@@ -1,0 +1,31 @@
+// Color system
+$dark: #0d0d0d;
+$light: #f2f2f2;
+
+// #0D0D0D
+// #595959
+// #8C8C8C
+// #BFBFBF
+// #F2F2F2
+
+$primary: #0597f2;
+$secondary: #f20f79;
+
+// #F20F79 Pink
+// #0597F2 Blue
+// #44AFF2 Light Blue
+// #04ADBF Aqua
+// #F2913D Orange
+
+$body-color: #0d0d0d;
+
+// Typography
+$font-family-sans-serif: 'Open Sans', sans-serif;
+$headings-font-family: 'Lexend Deca', sans-serif;
+$headings-font-weight: normal;
+$line-height-base: 1.61803398875;
+
+// Buttons
+$btn-transition: none;
+
+@import '~bootstrap/scss/bootstrap';
