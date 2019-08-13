@@ -64,7 +64,6 @@
             <h4 class="text-primary">Want to work together?</h4>
             <h4>Let's chat and create something great.</h4>
           </b-col>
-          <b-col cols="1"></b-col>
           <b-col cols="auto">
             <b-button
               size="lg"
