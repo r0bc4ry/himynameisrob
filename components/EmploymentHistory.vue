@@ -10,19 +10,19 @@
           </a>
         </b-col>
         <b-col cols="4">
-          <a href="https://mymugsandkisses.com/" target="_blank">
+          <a href="https://github.com/r0bc4ry/gifable" target="_blank">
             <b-img src="/img/gifable.png" fluid></b-img>
           </a>
         </b-col>
         <b-col cols="4">
-          <a href="https://github.com/r0bc4ry/gifable" target="_blank">
+          <a href="http://www.hellowallet.com/" target="_blank">
             <b-img src="/img/hellowallet.png" fluid></b-img>
           </a>
         </b-col>
       </b-row>
       <b-row class="justify-content-sm-center align-items-center">
         <b-col cols="6">
-          <a href="http://www.hellowallet.com/" target="_blank">
+          <a href="https://mymugsandkisses.com/" target="_blank">
             <b-img src="/img/my-mugs-and-kisses.png" fluid></b-img>
           </a>
         </b-col>
