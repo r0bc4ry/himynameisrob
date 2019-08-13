@@ -1,15 +1,5 @@
-const routerBase =
-  process.env.DEPLOY_ENV === 'GH_PAGES'
-    ? {
-        router: {
-          base: '/hi-my-name-is-rob/'
-        }
-      }
-    : {}
-
 export default {
   mode: 'universal',
-  ...routerBase,
   /*
    ** Headers of the page
    */

@@ -1,4 +1,4 @@
-# hi-my-name-is-rob
+# himynameisrob
 
 > My astonishing Nuxt.js project
 

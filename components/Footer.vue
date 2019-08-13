@@ -5,7 +5,7 @@
         Built with <i class="fas fa-heart text-secondary"></i> and
         <a href="https://nuxtjs.org/" target="_blank">Nuxt.js</a>. View the
         source code on
-        <a href="https://github.com/r0bc4ry/hi-my-name-is-rob" target="_blank"
+        <a href="https://github.com/r0bc4ry/himynameisrob" target="_blank"
           >GitHub</a
         >.
       </p>
