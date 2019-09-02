@@ -69,7 +69,7 @@
               size="lg"
               variant="primary"
               squared
-              href="mailto:r0bc4ry@gmail.com"
+              href="mailto:contact@himynameisrob.com"
             >
               Contact Me
             </b-button>

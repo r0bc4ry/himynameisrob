@@ -7,7 +7,7 @@
       <b-nav-item href="https://twitter.com/r0bc4ry" target="_blank">
         <i class="fab fa-twitter"></i>
       </b-nav-item>
-      <b-nav-item href="mailto:r0bc4ry@gmail.com">
+      <b-nav-item href="mailto:contact@himynameisrob.com">
         <i class="fas fa-envelope"></i>
       </b-nav-item>
     </b-navbar-nav>

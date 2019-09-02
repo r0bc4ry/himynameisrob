@@ -8,7 +8,7 @@
       size="lg"
       variant="secondary"
       squared
-      href="mailto:r0bc4ry@gmail.com"
+      href="mailto:contact@himynameisrob.com"
     >
       <i class="fas fa-comments-dollar"></i> Hire Me
     </b-button>
